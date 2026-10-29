@@ -1,5 +1,22 @@
 # Notes de mise à jour
 
+## [0.2.2] - 2026-10-29
+
+### Nouveautés
+- **Profil** : anneau de RR autour du rang actuel et boucliers anti-dérank en division 1 (barré, à moitié ou plein).
+- **Historique** : chaque partie classée affiche les RR gagnés ou perdus et le rang obtenu, avec une flèche en cas de promotion ou de rétrogradation.
+- **Live** : cliquez sur le rang d'un joueur pour voir son rang actuel, son pic et ses triangles d'acte.
+- **Boutique** : cliquez sur un skin, un pack ou une offre du marché nocturne pour voir les variantes, les niveaux et les vidéos.
+- **Équipement** : tous les skins du jeu, avec filtres possédés, non possédés, favoris, arme et édition.
+- **Nouveaux onglets** : Signets (profils suivis avec une note), Pseudos (changements de Riot ID repérés) et Achats (contenu ajouté à votre compte).
+- **Profil** : victoires par agent et par carte, parties jouées par rôle, et triangle d'acte qui distingue les divisions de chaque rang.
+- **Rôle conseillé** : en cliquant sur votre SLR, Sightline indique le rôle qui correspond le mieux à votre style de jeu, et pourquoi.
+- **Thèmes** : Graphite, Braise, Néon, Émeraude et Chroma, un arc-en-ciel animé façon éclairage de clavier.
+
+### Améliorations
+- Les RR et le rang s'actualisent en revenant sur le profil après une partie.
+- L'onglet Infos ne saccade plus en affichant les agents et les cartes.
+
 ## [0.2.1] - 2026-10-29
 
 ### Nouveautés
