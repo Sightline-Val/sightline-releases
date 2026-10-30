@@ -1,5 +1,25 @@
 # Notes de mise à jour
 
+## [0.2.3] - 2026-10-30
+
+### Nouveautés
+- **Carte de profil** : nouveau format vertical avec rangs, Sightline Rating, statistiques, rôle et agent de prédilection, et un aperçu avant l'enregistrement.
+- **Rating de chaque partie** : cliquez sur la note d'une partie, dans l'historique ou dans le tableau des scores (pour chaque joueur), pour savoir pourquoi elle a été obtenue, ce qui n'allait pas et quoi corriger à la prochaine.
+- **Live** : bouton pour quitter la sélection d'agent sans relancer le jeu.
+- **Casier** : export en image de votre équipement, avec la valeur de l'inventaire en VP.
+- **Statut Discord** : ce que vous faites (menu, recherche, sélection d'agent, partie avec carte, mode, agent, score et rang) s'affiche dans votre profil Discord. Désactivable dans les paramètres.
+- **Cartes** (onglet Infos) : composition conseillée, site d'attaque où chaque agent réussit le mieux et lineups en vidéo.
+- **Skins** : aperçu en plein écran, vidéos comprises.
+- **Groupe** : tous les modes ouverts en ce moment, et la partie personnalisée.
+- **Amis** : la liste des amis qui ne font plus partie de votre liste, avec une notification Windows quand cela arrive.
+
+### Améliorations
+- **Groupes adverses** : les joueurs venus ensemble dans l'équipe adverse sont maintenant repérés.
+- **Détection de smurf** plus précise : RR gagnés par victoire, montée de rang récente, pic passé et premiers kills.
+- **Sightline Rating** : celui du profil ne compte plus que les parties classées, quel que soit le filtre affiché. Chaque partie garde sa note, quel que soit le mode.
+- Les parties de **Combat à mort** apparaissent dans l'historique.
+- **Mode performance** : Sightline coupe ses animations pendant une partie pour moins peser sur vos FPS.
+
 ## [0.2.2] - 2026-10-29
 
 ### Nouveautés
