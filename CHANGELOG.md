@@ -1,5 +1,11 @@
 # Notes de mise à jour
 
+## [0.2.5] - 2026-11-05
+
+### Corrections
+- **Mémoire** : au premier lancement, Sightline pouvait occuper plusieurs gigaoctets de mémoire et ralentir tout le PC. Le cache des matchs est maintenant lu un match à la fois.
+- **Place sur le disque** : le cache des matchs est compressé (environ 10 fois plus léger). Les anciens matchs sont convertis en arrière-plan au premier lancement.
+
 ## [0.2.4] - 2026-11-05
 
 ### Nouveautés
