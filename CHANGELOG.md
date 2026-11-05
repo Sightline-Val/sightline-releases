@@ -1,5 +1,17 @@
 # Notes de mise à jour
 
+## [0.2.4] - 2026-11-05
+
+### Nouveautés
+- **Probabilité de victoire** : dès que les dix agents sont connus, Sightline estime vos chances de gagner (SLR, rangs et smurfs de chaque joueur), puis la **Live Win Probability** évolue à chaque round avec le score et une courbe de la partie.
+- **Triangles d'acte** redessinés comme dans le jeu : cadre métallique, cases plates (division 1) ou biseautées (bordure fine en division 2, épaisse en division 3), ornements selon le palier de victoires, meilleur rang de l'acte, dates de l'acte et RR enregistrés en fin d'acte.
+- **Classement des amis** : un nouvel onglet classe vos amis par Sightline Rating, de S à E.
+- **Polices** : cinq styles d'écriture au choix dans Paramètres → Apparence.
+- **English** : Sightline est disponible en anglais (Paramètres → Langue), avec la langue de Windows choisie au premier lancement.
+
+### Corrections
+- Les halos autour des anneaux de rang (profil et historique) ne sont plus coupés.
+
 ## [0.2.3] - 2026-10-30
 
 ### Nouveautés
